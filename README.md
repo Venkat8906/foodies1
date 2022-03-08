@@ -1,2 +1,2 @@
-# foodies1
-Apache web applications with maven
+# foodies
+foodies application with dynamic content demonstration
